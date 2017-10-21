@@ -1,0 +1,24 @@
+{
+  "name": "liri_node_app",
+  "version": "1.0.0",
+  "description": "Liri is a Language Interpretation and Recognition Interface that take parameters and gives back data.",
+  "main": "liri_node_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailybp/Liri_Node_App.git"
+  },
+  "author": "Brendan Dailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dailybp/Liri_Node_App/issues"
+  },
+  "homepage": "https://github.com/dailybp/Liri_Node_App#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
